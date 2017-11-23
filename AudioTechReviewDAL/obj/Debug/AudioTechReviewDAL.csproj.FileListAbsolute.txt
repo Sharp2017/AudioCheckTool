@@ -1,0 +1,6 @@
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\AudioTechReviewDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\AudioTechReviewDAL\bin\Debug\AudioTechReviewDAL.dll
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\AudioTechReviewDAL\bin\Debug\AudioTechReviewDAL.pdb
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\AudioTechReviewDAL\bin\Debug\XstudioDataInfo.dll
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\AudioTechReviewDAL\obj\Debug\AudioTechReviewDAL.dll
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\AudioTechReviewDAL\obj\Debug\AudioTechReviewDAL.pdb

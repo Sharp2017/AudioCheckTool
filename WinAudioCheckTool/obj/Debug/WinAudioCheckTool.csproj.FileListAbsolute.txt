@@ -1,0 +1,11 @@
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\bin\Debug\WinAudioCheckTool.exe
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\bin\Debug\WinAudioCheckTool.pdb
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\ResolveAssemblyReference.cache
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\WinAudioCheckTool.FrmMain.resources
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\WinAudioCheckTool.Properties.Resources.resources
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\WinAudioCheckTool.csproj.GenerateResource.Cache
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\WinAudioCheckTool.exe.licenses
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\WinAudioCheckTool.exe
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\WinAudioCheckTool.pdb
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\bin\Debug\XstudioDataInfo.dll
+D:\HRTemp\2017各台问题汇总\国际台\AudioCheckTool\WinAudioCheckTool\obj\Debug\WinAudioCheckTool.Form_AudioCheckSetting.resources

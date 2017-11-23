@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AudioCheckParameter>
+  <!--是否检测静音，0为否，1为是 -->
+  <IsCheckMutedbfs value="1" />
+  <!--静音值(dBFS)-->
+  <Mutedbfs value="-36" />
+  <!--静音长度（秒）-->
+  <MuteDuration value="5" />
+  <!--是否反相检测，0为否，1为是-->
+  <IsCheckReverse value="1" />
+  <!--相位监测阙值-->
+  <Reverse value="-0.75" />
+  <!--检查时间长度(秒)-->
+  <ReversDuration value="6" />
+  <!--是否过载检测，0为否，1为是-->
+  <IsCheckOverloaddbfs value="0" />
+  <!--过载值(dbFS)-->
+  <Overloaddbfs value="-9" />
+  <!--左右电平差检查，0为否，1为是-->
+  <IsCheckSLevelThreshold_Limit value="1" />
+  <!--左右声道电平差(dBFS)-->
+  <SLevelThreshold_Limit value="20" />
+  <!--长度(秒)-->
+  <NLRLevelTime_Limit value="6" />
+</AudioCheckParameter>
